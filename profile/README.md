@@ -10,6 +10,6 @@
 - [ ] 1차시 (12/1~3)
 
 ### 📚 Languages
-|2023 Q4 ~ 2024 Q1|
-|-----|
-|<div align="center"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&logoWidth=20">&nbsp;<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white&logoWidth=20"></div>|
+|2023 Q4 ~ 2024 Q1|2024 Q1 ~ Q2|
+|-----|-----|
+|<div align="center"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&logoWidth=20">&nbsp;<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white&logoWidth=20"></div>|<div align="center">TBD</div>|
