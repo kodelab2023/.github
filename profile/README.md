@@ -8,3 +8,8 @@
 - [ ] 인원모집 (11/15)
 - [ ] 깃허브 계정등록 (11/20)
 - [ ] 1차시 (12/1~3)
+
+### 📚 Languages
+|2023 Q4 ~ 2024 Q1|
+|-----|
+|<div align="center"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&logoWidth=20">&nbsp;<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white&logoWidth=20"></div>|
