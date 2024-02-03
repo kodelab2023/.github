@@ -10,6 +10,6 @@
 - [ ] 1차시 (2/3)
 
 ### 📚 Languages
-|2024 02 ~ 2024 04|2024 05 ~ 07|
+|2024.02 ~ 2024.04|2024.05 ~ 2024.07|
 |-----|-----|
 |<div align="center"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&logoWidth=20">&nbsp;<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white&logoWidth=20"></div>|<div align="center">TBD</div>|
