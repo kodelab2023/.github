@@ -15,5 +15,5 @@
 |<div align="center"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white&logoWidth=20">&nbsp;<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"></div>|<div align="center">TBD</div>|
 
 ### 🔔 Goals
-- 1차: 전 멤버 백준 골드 달성
+- 1차: 전 멤버 백준 실버 달성
 - 2차: 4월 공모전 준비 및 출품
